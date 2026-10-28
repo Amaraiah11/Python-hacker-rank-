@@ -1,7 +1,7 @@
 # 🏆 HackerRank Python Solutions — High-Performance Algorithmic Challenges
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:052E16,50:166534,100:22C55E&customColorList=052E16,166534,22C55E&height=220&section=header&text=HackerRank%20Python%20Solutions&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=High-Performance%20Algorithmic%20Challenges%20%26%20Data%20Structures&descSize=15&descAlignY=60&descAlign=50" width="100%" alt="HackerRank Python Solutions Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:052E16,50:166534,100:22C55E&customColorList=052E16,166534,22C55E&height=220&section=header&text=HackerRank%20Python%20Solutions&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=High-Performance%20Algorithmic%20Challenges%20and%20Data%20Structures&descSize=15&descAlignY=60&descAlign=50" width="100%" alt="HackerRank Python Solutions Banner" />
 </p>
 
 <p align="center">
